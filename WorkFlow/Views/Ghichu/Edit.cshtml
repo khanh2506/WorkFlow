@@ -1,0 +1,28 @@
+﻿@model WorkFlow.Models.Ghichu
+@{
+    ViewBag.Title = "Sửa Ghi chú";
+}
+@using (Html.BeginForm("SaveEdit", "Ghichu", FormMethod.Post))
+{
+    <h2>Sửa ghi chú</h2>
+    <div class="form-group">
+        
+        <div id="editor-container" class="form-control"></div>
+        @Html.HiddenFor(model => model.Content, new { @class = "quill-content" })
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu</button>
+}
+@section scripts {
+    <script>
+        var quill = new Quill('#editor-container', {
+            theme: 'snow'
+        });
+        var contentInput = document.querySelector('.quill-content');
+        quill.root.innerHTML = contentInput.value;
+
+        $("form").submit(function () {
+            contentInput.value = quill.root.innerHTML;
+        });
+
+    </script>
+}      

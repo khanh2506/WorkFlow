@@ -1,0 +1,221 @@
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/WorkFlow.dll.config
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/WorkFlow.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/WorkFlow.pdb
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/csc.exe
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/csc.exe.config
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/csc.rsp
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/csi.exe
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/csi.exe.config
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/csi.rsp
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.AppContext.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Console.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.IO.Compression.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Net.Http.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Net.Sockets.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.ValueTuple.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Xml.XPath.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/vbc.exe
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/vbc.exe.config
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/vbc.rsp
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/VBCSCompiler.exe
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Antlr3.Runtime.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/EntityFramework.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/EntityFramework.SqlServer.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.AspNet.Identity.Core.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.AspNet.Identity.Owin.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Host.SystemWeb.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Cookies.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Facebook.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Google.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.OAuth.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Twitter.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Newtonsoft.Json.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Owin.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/System.Web.Helpers.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/System.Web.Mvc.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/System.Web.Optimization.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/System.Web.Razor.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/System.Web.WebPages.Deployment.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/System.Web.WebPages.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/System.Web.WebPages.Razor.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/WebGrease.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/System.Web.Helpers.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/System.Web.Mvc.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/System.Web.Optimization.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/System.Web.Razor.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/System.Web.WebPages.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/System.Web.WebPages.Deployment.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/System.Web.WebPages.Razor.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Newtonsoft.Json.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Antlr3.Runtime.pdb
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/EntityFramework.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/EntityFramework.SqlServer.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.AspNet.Identity.Core.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.AspNet.Identity.Owin.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Host.SystemWeb.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Facebook.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Cookies.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Google.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Twitter.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.OAuth.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/obj/Debug/WorkFlow.csproj.AssemblyReference.cache
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/obj/Debug/WorkFlow.csproj.CoreCompileInputs.cache
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/obj/Debug/WorkFlow.csproj.CopyComplete
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/obj/Debug/WorkFlow.dll
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/obj/Debug/WorkFlow.pdb
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/obj/Debug/WorkFlow.Migrations.InitialModel.resources
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/obj/Debug/WorkFlow.csproj.GenerateResource.cache
+C:/Users/TGC/source/repos/WorkFlow/WorkFlow/obj/Debug/WorkFlow.Migrations.CreateTableNote.resources
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/WorkFlow.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/WorkFlow.pdb
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/csc.exe
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/csc.exe.config
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/csc.rsp
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/csi.exe
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/csi.exe.config
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/csi.rsp
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/Microsoft.Win32.Primitives.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.AppContext.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Collections.Immutable.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Console.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Globalization.Calendars.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.IO.Compression.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.IO.Compression.ZipFile.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.IO.FileSystem.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Net.Http.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Net.Sockets.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Reflection.Metadata.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.ValueTuple.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Xml.XPath.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/vbc.exe
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/vbc.exe.config
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/vbc.rsp
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/VBCSCompiler.exe
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/roslyn/VBCSCompiler.exe.config
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Antlr3.Runtime.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/EntityFramework.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/EntityFramework.SqlServer.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.AspNet.Identity.Core.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.AspNet.Identity.Owin.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Host.SystemWeb.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Cookies.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Facebook.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Google.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.OAuth.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Twitter.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Web.Infrastructure.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Newtonsoft.Json.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Owin.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/System.Web.Helpers.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/System.Web.Mvc.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/System.Web.Optimization.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/System.Web.Razor.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/System.Web.WebPages.Deployment.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/System.Web.WebPages.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/System.Web.WebPages.Razor.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/WebGrease.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/System.Web.Helpers.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/System.Web.Mvc.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/System.Web.Optimization.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/System.Web.Razor.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/System.Web.WebPages.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/System.Web.WebPages.Deployment.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/System.Web.WebPages.Razor.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Newtonsoft.Json.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Antlr3.Runtime.pdb
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/EntityFramework.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/EntityFramework.SqlServer.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.AspNet.Identity.Core.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.AspNet.Identity.Owin.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.AspNet.Identity.EntityFramework.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Host.SystemWeb.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Facebook.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Cookies.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Google.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.Twitter.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.Owin.Security.OAuth.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/obj/Debug/WorkFlow.csproj.AssemblyReference.cache
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/obj/Debug/WorkFlow.Migrations.InitialModel.resources
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/obj/Debug/WorkFlow.Migrations.CreateTableNote.resources
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/obj/Debug/WorkFlow.csproj.GenerateResource.cache
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/obj/Debug/WorkFlow.csproj.CoreCompileInputs.cache
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/obj/Debug/WorkFlow.csproj.CopyComplete
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/obj/Debug/WorkFlow.dll
+/Users/nguyenquockhanh/Workspace/lập trình web ASP.Net/WorkFlow/WorkFlow/obj/Debug/WorkFlow.pdb

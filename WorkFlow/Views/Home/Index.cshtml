@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "Trang chủ";
+}
+
+<main style="padding:100px">
+
+    <section class="row" aria-labelledby="aspnetTitle">
+        <h1 style="text-align:center; padding-bottom:20px" id="title">Tổ chức công việc, sắp xếp cuộc sống</h1>
+        <p style="text-align:center;" class="lead">Ghi nhớ mọi việc và xử lý mọi dự án nhờ ghi chú, nhiệm vụ và lịch biểu được tập trung tại cùng một nơi.</p>
+        <div style="padding: 25px; text-align: center;  ">
+            <a class="linkdangky" style=" font-family: Soleil_Bold,Helvetica,Arial,sans-serif; border-radius: 3px; font-size:15px; padding: 16px 80px; color: #fff; background: url( //images.ctfassets.net/rz1oowkt5gyp/6bFuTiN5YQ78rFkHb3aJlo/b608362…/white-wave-mobile.svg) center bottom -0.5px / 100% 24% no-repeat scroll padding-box border-box, linear-gradient(60deg, rgb(82, 67, 170), rgb(237, 80, 180)) 0% 0% / auto no-repeat scroll padding-box border-box rgb(82, 67, 170); text-decoration: none;  " href="@Url.Action("Register", "Account")">Đăng ký miễn phí</a>
+        </div>
+        <div style="padding: 25px; text-align: center;  ">
+            <a class="linkdangnhap" style=" font-family: Soleil_Bold,Helvetica,Arial,sans-serif; " href="@Url.Action("Login", "Account")">Bạn đã có tài khoản? Đăng nhập</a>
+        </div>
+
+    </section>
+
+    <div class="row">
+        <section class="col-md-4" aria-labelledby="gettingStartedTitle">
+            <h2 id="gettingStartedTitle">Làm việc mọi nơi</h2>
+            <p>
+                Thông tin quan trọng luôn sẵn sàng lúc bạn cần – ghi chú của bạn sẽ tự động đồng bộ hóa trên mọi thiết bị.
+            </p>
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+        </section>
+        <section class="col-md-4" aria-labelledby="librariesTitle">
+            <h2 id="librariesTitle">Đáp ứng mọi thời hạn</h2>
+            <p>Tạo và giao nhiệm vụ ngay trong ghi chú, kèm theo ngày đến hạn, cờ đánh dấu và lời nhắc để không bỏ sót việc gì.</p>
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+        </section>
+        <section class="col-md-4" aria-labelledby="hostingTitle">
+            <h2 id="hostingTitle">Biến "VIỆC CẦN LÀM" thành "VIỆC ĐÃ LÀM"</h2>
+            <p>Sử dụng ghi chú, nhiệm vụ và lịch biểu tại cùng một nơi để dễ dàng làm được nhiều việc hơn.</p>
+            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+        </section>
+    </div>
+</main>

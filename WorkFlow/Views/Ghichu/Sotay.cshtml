@@ -1,0 +1,51 @@
+﻿@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Sổ Tay";
+}
+
+<h2>Sổ Tay</h2>
+
+
+@if (Model != null)
+{
+    foreach (var note in Model)
+    {
+
+        <div>
+            <h3>@note.Title</h3>
+            
+
+        </div>
+        <table class="table table-hover">
+            <thead>
+                <tr>
+
+                    <th scope="col">người tạo</th>
+                    <th scope="col">nội dung</th>
+                    <th scope="col">ngày/giờ</th>
+                    <th scope="col">Sửa</th>
+                    <th scope="col">xóa</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+
+                    <td>@User.Identity.GetUserName()</td>
+                    <td>@Html.Raw(note.Content)</td>
+                    <td>@note.DateTime.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                    <td>@Html.ActionLink("Edit", "Edit", new { id = note.Id })</td>
+                    <td>
+                        
+                        @using (Html.BeginForm("Delete", "Ghichu", new { id = note.Id }, FormMethod.Post))
+                        {
+                            <button type="submit" class="btn btn-danger">Xóa</button>
+                        }
+                    </td>
+
+                </tr>
+            </tbody>
+        </table>
+
+    }
+}

@@ -1,0 +1,59 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - WorkFlow Managenment</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Styles.Render("~/Content/quill")
+    @Scripts.Render("~/bundles/quill")
+
+
+</head>
+<body>
+    <nav style="background: url(//images.ctfassets.net/rz1oowkt5gyp/6bFuTiN5YQ78rFkHb3aJlo/b608362…/white-wave-mobile.svg) center bottom -0.5px / 100% 24% no-repeat scroll padding-box border-box, linear-gradient(60deg, rgb(82, 67, 170), rgb(237, 80, 180)) 0% 0% / auto no-repeat scroll padding-box border-box rgb(82, 67, 170);" class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
+        <div class="container">
+            <a href=" @Url.Action("Index", "Home")"><img style="width: 100px;" src="~/Content/img/WoRKFlow-removebg-preview.png" alt="logo" /></a>
+            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="Toggle navigation" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                    <li>@Html.ActionLink("Trang chủ", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Tạo ghi chú", "Create", "Ghichu", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Tạo nhiệm vụ", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Sổ tay", "Sotay", "Ghichu", new { area = "" }, new { @class = "nav-link" })</li>
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </nav>
+    <div style="margin-top: 5px; background: linear-gradient(0deg, rgb(230, 252, 255), rgb(255, 255, 255)) 0% 0% / auto no-repeat scroll padding-box border-box transparent; ">
+        <!--class="container body-content"-->
+        @RenderBody()
+        <hr />
+
+    </div>
+    <footer style="background-color: rgb(23, 43, 77); color: rgb(255, 255, 255); ">
+        <p>   Liên hệ với chúng tôi<br> 0862576907 </p>
+        <p>&copy; @DateTime.Now.Year - WorkFlow Managenment </p>
+        <p>&copy; @DateTime.Now.Year - WorkFlow Managenment </p>
+        <p>&copy; @DateTime.Now.Year - WorkFlow Managenment </p>
+        <p>&copy; @DateTime.Now.Year - WorkFlow Managenment </p>
+        <p>&copy; @DateTime.Now.Year - WorkFlow Managenment </p>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+
+
+
+</body>
+</html>
+
+

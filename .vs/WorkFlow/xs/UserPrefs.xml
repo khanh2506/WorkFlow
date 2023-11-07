@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{D65DFB0B-1B7A-4082-AB85-7DD3F62644CD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkFlow/Web.config">
+    <Files>
+      <File FileName="WorkFlow/Controllers/HomeController.cs" Line="24" Column="27" />
+      <File FileName="WorkFlow/Controllers/GhichuController.cs" Line="1" Column="1" />
+      <File FileName="WorkFlow/Views/Ghichu/Edit.cshtml" Line="4" Column="2" />
+      <File FileName="WorkFlow/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="WorkFlow/Views/Web.config" Line="1" Column="1" />
+      <File FileName="WorkFlow/Web.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkFlow" expanded="True">
+            <Node name="WorkFlow" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Ghichu" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Web.config" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WorkFlow PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
